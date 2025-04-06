@@ -8,6 +8,9 @@
   --background-end-rgb: 255, 255, 255;
   --primary-color: #FF6B6B;
   --secondary-color: #96CEB4;
+
+  --menu-transition-speed: 0.3s;
+  --menu-font-family: 'Rubik', 'Heebo', sans-serif;
 }
 
 html {
