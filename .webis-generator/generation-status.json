@@ -1,11 +1,72 @@
 {
-  "timestamp": "2025-04-06T10:22:29.059Z",
+  "timestamp": "2025-04-06T10:23:14.799Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 10,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeaderMenu",
+      "type": "navigation",
+      "status": "pending",
+      "description": "A responsive RTL Hebrew menu with all website sections"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section showcasing the bookstore with headline and call to action"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section explaining the bookstore's background and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section showcasing the bookstore's services"
+    },
+    {
+      "name": "PortfolioSection",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Gallery showcasing the bookstore's collection or featured books"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Section displaying customer testimonials"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions about the bookstore"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form and information"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Website footer with links and copyright information"
+    },
+    {
+      "name": "ScrollToTopButton",
+      "type": "utility",
+      "status": "pending",
+      "description": "Button to scroll back to the top of the page"
+    }
+  ],
   "repoName": "webis-site-aaff-1743934852199"
 }
