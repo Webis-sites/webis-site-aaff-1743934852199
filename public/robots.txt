@@ -1,0 +1,6 @@
+# robots.txt for aaff
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://aaff.com/sitemap.xml
