@@ -1,8 +1,36 @@
 {
   "projectName": "aaff-4852",
   "businessName": "aaff",
-  "created": "2025-04-06T10:20:52.260Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו חנות ספרים מוביל בתחום החינוך עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-06T10:22:29.060Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-aaff-1743934852199",
+  "formData": {
+    "businessName": "aaff",
+    "businessType": "חנות ספרים",
+    "industry": "קמעונאות",
+    "businessSize": "medium",
+    "description": "אנחנו חנות ספרים מוביל בתחום החינוך עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#FF6B6B",
+    "secondaryColor": "#96CEB4",
+    "typographyStyle": "playful",
+    "animationPreference": "minimal",
+    "headline": "חנות ספרים מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": true,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": true,
+    "needsBookingSystem": false,
+    "metaDescription": "חנות ספרים מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "חנות ספרים, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
